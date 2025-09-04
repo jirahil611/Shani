@@ -1,7 +1,7 @@
 {
     "NOTIFICATION": true,
     "language": "en",
-    "keyActive": "shankar",
+    "keyActive": "jamal",
     "notiGroup": false,
     "DeveloperMode": false,
     "autoCreateDB": true,
@@ -16,12 +16,12 @@
     ],
     "autoRestart": 3600000,
     "UPTIME": 8724188.91791798,
-    "ACCESSTOKEN": "EAAD6V7os0gcBO0vCRZCP9X9HHO6DAm1rgYVOHtBGhpULPqOwdZBURXndaWZCH4XQvXNhOMPGHlZCRUNZCB9wiWd4O5ZCzCyMb0Qy0OgSEKjEEzZAfDMz68cZBSduBIIDsVQ3Oba3ZB2shnmU31VLmJpKj06UvBOaSTG3jhurXBaZCTjGZCjDbZBzSxFxT3WZANAZDZD",
-    "FACEBOOK_ADMIN": "https://m.facebook.com/profile.php?id=61577191230420",
+    "ACCESSTOKEN": "EAAD6V7os0gcBPZAIIc3ZBsQaPEZA9mTb02CZCbZBsElQJCE9jKZCu59vdFhZBe2tCIhlWMHPgQw4msiZCf9G1KPTloEfZAMFHhKP8FnBEfudrTIgZCm216hvvjCzLBufcICYfkZBNBZBqSeaziycSrHsjljWn16ZAtIbATg7uNo88TCZC9XQCSxP2h5FIa8MvZAGBGoUuOtiwZDZD",
+    "FACEBOOK_ADMIN": "https://www.facebook.com/jamal.pathan.78992?mibextid=ZbWKwL",
     "ZALO_ADMIN": "0xxxxx",
     "ADMIN_NAME": "JAMAL PATHAN",
     "BOTNAME": "✦🌎𝗗𝗢𝗟𝗟𝗬🌎🦋🎀:-)──➣✦🍒",
-    "PREFIX": ".",
+    "PREFIX": "+",
     "ADMINBOT": [
         "100071943783967",
         ""
